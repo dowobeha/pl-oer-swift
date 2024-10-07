@@ -7,5 +7,6 @@
         "license:CC-BY-NC",
         "short_answer"
     ],
-    "type": "v3"
+    "type": "v3",
+    "sharedPublicly": true
 }

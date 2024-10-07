@@ -8,5 +8,6 @@
         "MC",
         "sp20"
     ],
-    "type": "v3"
+    "type": "v3",
+    "sharedPublicly": true
 }

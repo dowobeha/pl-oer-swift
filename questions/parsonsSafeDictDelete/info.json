@@ -8,5 +8,6 @@
         "fa19"
     ],
     "singleVariant": false,
-    "type": "v3"
+    "type": "v3",
+    "sharedPublicly": true
 }

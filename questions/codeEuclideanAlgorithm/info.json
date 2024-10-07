@@ -6,12 +6,13 @@
         "license:CC-BY-NC"
     ],
     "type": "v3",
-    "singleVariant": true, 
+    "singleVariant": true,
     "gradingMethod": "External",
     "externalGradingOptions": {
         "enabled": true,
         "image": "prairielearn/grader-python",
         "entrypoint": "/python_autograder/run.sh",
         "timeout": 15
-    }
+    },
+    "sharedPublicly": true
 }
