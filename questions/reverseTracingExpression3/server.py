@@ -25,7 +25,7 @@ def generate(data):
     
     a = single_digit_number()
     b = single_digit_number()
-    if 'exponent' in template[1] and version == 1 and b < 0:
+    if 'exponent' in template[1] and b < 0:
         b = -b
     c = random.randint(2, 4)
     expr_str = template[0].format(a, b, c)
