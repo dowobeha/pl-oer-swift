@@ -1,12 +1,8 @@
 {
-    "uuid": "dadf8fd3-404d-4803-9ed5-2bbb55b7cbea",
-    "title": "Tracing: conditional expressions with else",
-    "topic": "Conditionals",
-    "tags": [
-        "short_answer",
-        "author:prairielearn.com",
-        "license:CC-BY-NC"
-    ],
-    "type": "v3",
-    "sharedPublicly": true
+  "uuid": "dadf8fd3-404d-4803-9ed5-2bbb55b7cbea",
+  "title": "Tracing: conditional expressions with else",
+  "topic": "Conditionals",
+  "tags": ["short_answer", "author:prairielearn.com", "license:CC-BY-NC"],
+  "type": "v3",
+  "sharePublicly": true
 }

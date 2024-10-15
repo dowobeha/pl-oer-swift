@@ -1,12 +1,8 @@
 {
-    "uuid": "4638b2e3-26a9-41bc-94fa-e430525fbee7",
-    "title": "Reverse Tracing: arithmetic expression",
-    "topic": "Expressions",
-    "tags": [
-        "author:mhassancs@illinois.edu",
-        "license:CC-BY-NC",
-        "short_answer"
-    ],
-    "type": "v3",
-    "sharedPublicly": true
+  "uuid": "4638b2e3-26a9-41bc-94fa-e430525fbee7",
+  "title": "Reverse Tracing: arithmetic expression",
+  "topic": "Expressions",
+  "tags": ["author:mhassancs@illinois.edu", "license:CC-BY-NC", "short_answer"],
+  "type": "v3",
+  "sharePublicly": true
 }

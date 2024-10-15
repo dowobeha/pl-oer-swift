@@ -1,12 +1,8 @@
 {
-    "uuid": "47a5dab4-808a-4e85-b2dd-1950044453d5",
-    "title": "Reverse Tracing: conditional expression",
-    "topic": "Conditionals",
-    "tags": [
-        "author:mhassancs@illinois.edu",
-        "license:CC-BY-NC",
-        "short_answer"
-    ],
-    "type": "v3",
-    "sharedPublicly": true
+  "uuid": "47a5dab4-808a-4e85-b2dd-1950044453d5",
+  "title": "Reverse Tracing: conditional expression",
+  "topic": "Conditionals",
+  "tags": ["author:mhassancs@illinois.edu", "license:CC-BY-NC", "short_answer"],
+  "type": "v3",
+  "sharePublicly": true
 }

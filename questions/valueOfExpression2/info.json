@@ -1,12 +1,8 @@
 {
-    "uuid": "73af3210-a6f1-4ec7-b9ad-af07acf195d2",
-    "title": "Tracing: arithmetic expression",
-    "topic": "Expressions",
-    "tags": [
-        "short_answer",
-        "author:prairielearn.com",
-        "license:CC-BY-NC"
-    ],
-    "type": "v3",
-    "sharedPublicly": true
+  "uuid": "73af3210-a6f1-4ec7-b9ad-af07acf195d2",
+  "title": "Tracing: arithmetic expression",
+  "topic": "Expressions",
+  "tags": ["short_answer", "author:prairielearn.com", "license:CC-BY-NC"],
+  "type": "v3",
+  "sharePublicly": true
 }

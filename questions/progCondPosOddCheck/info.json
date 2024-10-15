@@ -1,20 +1,16 @@
 {
-    "uuid": "7583dc34-c313-4f7e-af88-6db33d84c321",
-    "title": "Programming: Return whether an input number is odd and positive",
-    "topic": "Conditionals",
-    "tags": [
-        "code",
-        "author:mfwlr@illinois.edu",
-        "license:CC-BY-NC"
-    ],
-    "type": "v3",
-    "singleVariant": true,
-    "gradingMethod": "External",
-    "externalGradingOptions": {
-        "enabled": true,
-        "image": "prairielearn/grader-python",
-        "entrypoint": "/python_autograder/run.sh",
-        "timeout": 20
-    },
-    "sharedPublicly": true
+  "uuid": "7583dc34-c313-4f7e-af88-6db33d84c321",
+  "title": "Programming: Return whether an input number is odd and positive",
+  "topic": "Conditionals",
+  "tags": ["code", "author:mfwlr@illinois.edu", "license:CC-BY-NC"],
+  "type": "v3",
+  "singleVariant": true,
+  "gradingMethod": "External",
+  "externalGradingOptions": {
+    "enabled": true,
+    "image": "prairielearn/grader-python",
+    "entrypoint": "/python_autograder/run.sh",
+    "timeout": 20
+  },
+  "sharePublicly": true
 }

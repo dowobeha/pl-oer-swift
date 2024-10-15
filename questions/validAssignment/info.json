@@ -1,12 +1,8 @@
 {
-    "uuid": "05973f75-ab1d-4db3-91fe-30ac05337af0",
-    "title": "Syntax: Is this a valid assignment?",
-    "topic": "Intro",
-    "tags": [
-        "author:prairielearn.com",
-        "license:CC-BY-NC",
-        "MC"
-    ],
-    "type": "v3",
-    "sharedPublicly": true
+  "uuid": "05973f75-ab1d-4db3-91fe-30ac05337af0",
+  "title": "Syntax: Is this a valid assignment?",
+  "topic": "Intro",
+  "tags": ["author:prairielearn.com", "license:CC-BY-NC", "MC"],
+  "type": "v3",
+  "sharePublicly": true
 }

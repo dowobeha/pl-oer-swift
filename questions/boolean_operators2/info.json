@@ -1,12 +1,8 @@
 {
-    "uuid": "d994e9ed-c582-4c59-9ceb-f75804a77e66",
-    "title": "Tracing: Boolean operations (where precedence matters)",
-    "topic": "Conditionals",
-    "tags": [
-        "author:prairielearn.com",
-        "license:CC-BY-NC",
-        "TrueFalse"
-    ],
-    "type": "v3",
-    "sharedPublicly": true
+  "uuid": "d994e9ed-c582-4c59-9ceb-f75804a77e66",
+  "title": "Tracing: Boolean operations (where precedence matters)",
+  "topic": "Conditionals",
+  "tags": ["author:prairielearn.com", "license:CC-BY-NC", "TrueFalse"],
+  "type": "v3",
+  "sharePublicly": true
 }

@@ -1,12 +1,8 @@
 {
-    "uuid": "93fcf52f-ffe0-43bb-b4be-abc81f4741f1",
-    "title": "Tracing: Boolean expressions (comparisons with negative numbers)",
-    "topic": "Conditionals",
-    "tags": [
-        "author:prairielearn.com",
-        "license:CC-BY-NC",
-        "TrueFalse"
-    ],
-    "type": "v3",
-    "sharedPublicly": true
+  "uuid": "93fcf52f-ffe0-43bb-b4be-abc81f4741f1",
+  "title": "Tracing: Boolean expressions (comparisons with negative numbers)",
+  "topic": "Conditionals",
+  "tags": ["author:prairielearn.com", "license:CC-BY-NC", "TrueFalse"],
+  "type": "v3",
+  "sharePublicly": true
 }

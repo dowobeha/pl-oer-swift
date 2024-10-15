@@ -1,18 +1,16 @@
 {
-    "uuid": "b882263f-1061-4b2a-a44e-9e270733904f",
-    "title": "Use Dictionary",
-    "topic": "Dictionary",
-    "tags": [
-        "license:CC-BY-NC"
-    ],
-    "type": "v3",
-    "singleVariant": true,
-    "gradingMethod": "External",
-    "externalGradingOptions": {
-        "enabled": true,
-        "image": "prairielearn/grader-python",
-        "entrypoint": "/python_autograder/run.sh",
-        "timeout": 20
-    },
-    "sharedPublicly": true
+  "uuid": "b882263f-1061-4b2a-a44e-9e270733904f",
+  "title": "Use Dictionary",
+  "topic": "Dictionary",
+  "tags": ["license:CC-BY-NC"],
+  "type": "v3",
+  "singleVariant": true,
+  "gradingMethod": "External",
+  "externalGradingOptions": {
+    "enabled": true,
+    "image": "prairielearn/grader-python",
+    "entrypoint": "/python_autograder/run.sh",
+    "timeout": 20
+  },
+  "sharePublicly": true
 }

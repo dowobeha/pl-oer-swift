@@ -1,12 +1,8 @@
 {
-    "uuid": "30f18d6a-4fa1-4661-ba14-0b901ea7138a",
-    "title": "Types: Identify the type of a container",
-    "topic": "Types",
-    "tags": [
-        "author:prairielearn.com",
-        "license:CC-BY-NC",
-        "MC"
-    ],
-    "type": "v3",
-    "sharedPublicly": true
+  "uuid": "30f18d6a-4fa1-4661-ba14-0b901ea7138a",
+  "title": "Types: Identify the type of a container",
+  "topic": "Types",
+  "tags": ["author:prairielearn.com", "license:CC-BY-NC", "MC"],
+  "type": "v3",
+  "sharePublicly": true
 }

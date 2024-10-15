@@ -1,20 +1,16 @@
 {
-    "uuid": "4d67c5ac-df0e-4dc6-a434-dd991c7e5e75",
-    "title": "Demo: Craig Testing",
-    "topic": "Autograder",
-    "tags": [
-        "author:prairielearn.com",
-        "license:CC-BY-NC",
-        "code"
-    ],
-    "type": "v3",
-    "singleVariant": true,
-    "gradingMethod": "External",
-    "externalGradingOptions": {
-        "enabled": true,
-        "image": "prairielearn/grader-python",
-        "entrypoint": "/python_autograder/run.sh",
-        "timeout": 20
-    },
-    "sharedPublicly": true
+  "uuid": "4d67c5ac-df0e-4dc6-a434-dd991c7e5e75",
+  "title": "Demo: Craig Testing",
+  "topic": "Autograder",
+  "tags": ["author:prairielearn.com", "license:CC-BY-NC", "code"],
+  "type": "v3",
+  "singleVariant": true,
+  "gradingMethod": "External",
+  "externalGradingOptions": {
+    "enabled": true,
+    "image": "prairielearn/grader-python",
+    "entrypoint": "/python_autograder/run.sh",
+    "timeout": 20
+  },
+  "sharePublicly": true
 }
