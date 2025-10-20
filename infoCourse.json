@@ -1,7 +1,7 @@
-{
-    "uuid": "da558c1a-b637-4af8-920e-db910a045d94",
-    "name": "OER 108",
-    "title": "Introductory Python",
+t{
+    "uuid": "A018E533-06CD-43A5-9DEA-B8494618A25E",
+    "name": "OER 1XX",
+    "title": "Introductory Swift",
     "assessmentSets": [
 
     ],
@@ -15,5 +15,5 @@
         {"name": "author:prairielearn.com", "color": "blue3", "description": "questions created by prairielearn team"},
         {"name": "license:CC-BY-NC", "color": "yellow3", "description": "license for all prairielearn.com questions"}   
     ],
-    "timezone": "America/Chicago"
+    "timezone": "America/Anchorage"
 }
